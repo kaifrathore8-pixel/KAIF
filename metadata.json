@@ -1,0 +1,6 @@
+{
+  "name": "FF Sensitivity Pro",
+  "description": "Premium Free Fire sensitivity presets, custom HUDs, Headshot strategies, and local config backup tool with an interactive AI Sense optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
